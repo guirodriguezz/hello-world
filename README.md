@@ -1,16 +1,25 @@
-# hello_world
+## <h2>Flutter com a Cubos Academmy</strong></h2>
 
-A new Flutter project.
+<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Banner Flutter">
 
-## Getting Started
+<img src="https://www.tramaweb.com.br/wp-content/uploads/2022/02/cubos-academy-logo.png" min-width="230px" max-width="230px" width="230px" align="center" alt="Banner Flutter">
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+Projeto relacionado aos meus estudos de Flutter junto com a Cubos Academy.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align="left"><strong>🤝 Colaboradores</strong></h1>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/guirodriguezz">
+        <img src="https://avatars2.githubusercontent.com/u/32783994?s=460&u=2addef7630c3998e12be9a29432a2328d33e0ef0&v=4" width="100px;" alt="Foto de Guilherme Marques no GitHub"/><br>
+        <sub>
+          <b>Guilherme Marques</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
